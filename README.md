@@ -60,15 +60,15 @@
 
 ## Критерии оценки — где смотреть
 
-| Баллы | Критерий | В проекте |
+| Критерий | В проекте |
 |------:|----------|-----------|
-| 25 | MCP (≥2), агент вызывает tools | `mcp_servers/`, `agent/tools.py`, `demo_tools.py` |
-| 20 | LLM + tool calling + memory | `agent/llm.py`, `agent/memory.py`, `agent/pipeline.py` |
-| 10 | Vision (фото в ответе) | Вкладка текст+фото, `chat_turn` с изображением |
-| 5 | Custom skill критик | `analyze_restaurant_photo` → `restaurant_vision.py` |
-| 10 | Voice clone + TTS | `voice/clone.py`, `voice/tts.py`, `voice/.minimax_voice_id` |
-| 20 | Видео аватара, lip sync | `avatar/generate.py`, Creatify Aurora |
-| 10 | README + видео-демо 2–3 мин | Этот файл + **`assets/demo.mp4`** |
+| MCP (≥2), агент вызывает tools | `mcp_servers/`, `agent/tools.py`, `demo_tools.py` |
+| LLM + tool calling + memory | `agent/llm.py`, `agent/memory.py`, `agent/pipeline.py` |
+| Vision (фото в ответе) | Вкладка текст+фото, `chat_turn` с изображением |
+| Custom skill критик | `analyze_restaurant_photo` → `restaurant_vision.py` |
+| Voice clone + TTS | `voice/clone.py`, `voice/tts.py`, `voice/.minimax_voice_id` |
+| Видео аватара, lip sync | `avatar/generate.py`, Creatify Aurora |
+| README + видео-демо 2–3 мин | Этот файл + **`assets/demo.mp4`** |
 
 ---
 
