@@ -1,0 +1,41 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+node_modules/
+voice/.minimax_voice_id
+voice/last_tts.wav
+dist_submission/
+
+# Cursor / IDE
+.cursor/
+.idea/
+
+# Методичка / тяжёлые артефакты (как в ZIP не кладём)
+project05.pdf
+*.bin
+*.pt
+*.ckpt
+
+# Личные фото, видео, аудио — не в GitHub (в ZIP проверяющий кладёт свои сэмплы)
+photo_*.jpg
+avatar/my_photo.jpg
+avatar/pipeline_avatar.mp4
+assets/demo.mp4
+assets/*.jpg
+assets/*.jpeg
+assets/*.png
+video_demo_pitch.mp4
+voice/my_voice_sample.wav
+voice/pipeline_answer.wav
+voice/last_assistant.wav
+voice/Suleyman-Demirel-University-4.wav
+
+# Дубликаты / локальные артефакты
+pipeline_avatar (1).mp4
+avatar_512.jpg
+
+# Скрипт упаковки ZIP — только у автора на диске
+scripts/package_submission.ps1

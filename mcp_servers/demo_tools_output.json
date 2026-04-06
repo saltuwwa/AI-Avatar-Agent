@@ -1,0 +1,298 @@
+{
+  "2gis_search_restaurants_pizza": [
+    {
+      "name": "Noodles",
+      "address": "Гостиница Казахстан, проспект Достык, 52",
+      "rating": 4.6,
+      "price_range": "~10000  ₸",
+      "cuisine": "пицца Алматы",
+      "working_hours": "—",
+      "phone": "—",
+      "url_2gis": "https://2gis.kz/almaty/firm/9429940001290838"
+    },
+    {
+      "name": "Sansara Lounge",
+      "address": "—",
+      "rating": 4.9,
+      "price_range": "~12000  ₸",
+      "cuisine": "пицца Алматы",
+      "working_hours": "—",
+      "phone": "—",
+      "url_2gis": "https://2gis.kz/almaty/firm/70000001047809429"
+    },
+    {
+      "name": "Lanzhou",
+      "address": "—",
+      "rating": 4.5,
+      "price_range": "~2000  ₸",
+      "cuisine": "пицца Алматы",
+      "working_hours": "—",
+      "phone": "—",
+      "url_2gis": "https://2gis.kz/almaty/firm/70000001030534579"
+    },
+    {
+      "name": "Baharat",
+      "address": "ЖК Nur-ay Residence, улица Шевченко, 94, Алматы Пицца в меню",
+      "rating": 4.8,
+      "price_range": "—",
+      "cuisine": "пицца Алматы",
+      "working_hours": "—",
+      "phone": "—",
+      "url_2gis": "https://2gis.kz/almaty/firm/70000001082550767"
+    },
+    {
+      "name": "To The Moon",
+      "address": "Grand Mildom, проспект Достык, 172, Алматы",
+      "rating": 4.7,
+      "price_range": "~20000  ₸",
+      "cuisine": "пицца Алматы",
+      "working_hours": "—",
+      "phone": "—",
+      "url_2gis": "https://2gis.kz/almaty/firm/70000001089052965"
+    },
+    {
+      "name": "Guinness Pub",
+      "address": "—",
+      "rating": 4.9,
+      "price_range": "~8000  ₸",
+      "cuisine": "пицца Алматы",
+      "working_hours": "—",
+      "phone": "—",
+      "url_2gis": "https://2gis.kz/almaty/firm/9429940000787563"
+    },
+    {
+      "name": "okadzaki.kz",
+      "address": "Dial Residence, проспект Сейфуллина, 533 блок 2, Алматы",
+      "rating": 4.9,
+      "price_range": "~4000  ₸",
+      "cuisine": "пицца Алматы",
+      "working_hours": "—",
+      "phone": "—",
+      "url_2gis": "https://2gis.kz/almaty/firm/70000001085672485"
+    },
+    {
+      "name": "Mahalla",
+      "address": "ТРК ADK, улица Каныша Сатпаева, 90, Алматы",
+      "rating": 4.5,
+      "price_range": "~5000  ₸",
+      "cuisine": "пицца Алматы",
+      "working_hours": "—",
+      "phone": "—",
+      "url_2gis": "https://2gis.kz/almaty/firm/70000001102211231"
+    },
+    {
+      "name": "Mari central cafe",
+      "address": "—",
+      "rating": 4.9,
+      "price_range": "~7000  ₸",
+      "cuisine": "пицца Алматы",
+      "working_hours": "—",
+      "phone": "—",
+      "url_2gis": "https://2gis.kz/almaty/firm/70000001105808213"
+    },
+    {
+      "name": "Shafran",
+      "address": "—",
+      "rating": 4.8,
+      "price_range": "~4000  ₸",
+      "cuisine": "пицца Алматы",
+      "working_hours": "—",
+      "phone": "—",
+      "url_2gis": "https://2gis.kz/almaty/firm/70000001068970224"
+    }
+  ],
+  "chocolife_search_deals": [
+    {
+      "title": "Блюда кавказской и европейской кухни, а также все меню и бар",
+      "restaurant_name": "Кафе Гамарджоба",
+      "original_price": 0,
+      "discount_price": 500,
+      "discount_percent": 40,
+      "description": "Блюда кавказской и европейской кухни, а также все меню и бар",
+      "url": "https://chocolife.me/59423-kafe-gamardzhoba/",
+      "address": "г. Алматы, ул. Масанчи, 75, вход с Масанчи"
+    },
+    {
+      "title": "Скидка 30% на все меню в ресторане Flamingo!",
+      "restaurant_name": "Ресторан Flamingo",
+      "original_price": 0,
+      "discount_price": 500,
+      "discount_percent": 30,
+      "description": "на все меню",
+      "url": "https://chocolife.me/60244-restoran-flamingo/",
+      "address": "г. Алматы, 5-й микр-н, 21 г."
+    },
+    {
+      "title": "Медальоны из телятины или стейк из конины в Country Village Resort со скидкой",
+      "restaurant_name": "Ресторан Country Village Resort",
+      "original_price": 6300,
+      "discount_price": 2800,
+      "discount_percent": 57,
+      "description": "Медальоны из телятины или стейк из конины в Country Village Resort со скидкой",
+      "url": "https://chocolife.me/60190-restoran-country-village-resort/",
+      "address": "г. Алматы,  Аксайское ущелье, 1."
+    },
+    {
+      "title": "Чай с жемчугом, Bubble Tea и сладкие десерты",
+      "restaurant_name": "Tea Bar",
+      "original_price": 0,
+      "discount_price": 0,
+      "discount_percent": 30,
+      "description": "Скидка на всё меню",
+      "url": "https://chocolife.me/56740-tea-bar/",
+      "address": "г. Алматы, пр. Сейфуллина, 617"
+    },
+    {
+      "title": "Скидка на все меню и бар в лаундж-баре «Мята Vyshka»",
+      "restaurant_name": "Мята Vyshka",
+      "original_price": 0,
+      "discount_price": 500,
+      "discount_percent": 40,
+      "description": "Скидка на все меню и бар в лаундж-баре «Мята Vyshka»",
+      "url": "https://chocolife.me/60092-myata-vyshka/",
+      "address": "г. Алматы, ул. Ауэзова, 14 а, 17 этаж."
+    },
+    {
+      "title": "Настоящая неаполитанская пицца  в Miscusi pizza! Скидка на все меню 50%!",
+      "restaurant_name": "Miscusi pizza",
+      "original_price": 0,
+      "discount_price": 200,
+      "discount_percent": 50,
+      "description": "Настоящая неаполитанская пицца  в Miscusi pizza! Скидка на все меню 50%!",
+      "url": "https://chocolife.me/59927-miscusi-pizza/",
+      "address": "г. Алматы, пр-т С. Сейфуллина, 555 А, 3 этаж."
+    },
+    {
+      "title": "Паста Альфредо в ресторане Sintra  за 990 тенге!",
+      "restaurant_name": "Ресторан Sintra",
+      "original_price": 0,
+      "discount_price": 990,
+      "discount_percent": 66,
+      "description": "Паста Альфредо в ресторане Sintra  за 990 тенге!",
+      "url": "https://chocolife.me/59971-restoran-sintra/",
+      "address": "г. Алматы, ул. Байзакова, 280, БЦ Almaty Towers,  3 этаж."
+    },
+    {
+      "title": "Завтраки, пицца, паста и многое другое",
+      "restaurant_name": "Coffee House Grain",
+      "original_price": 0,
+      "discount_price": 0,
+      "discount_percent": 30,
+      "description": "Скидка на всё меню",
+      "url": "https://chocolife.me/58414-coffee-house-grain/",
+      "address": "г. Алматы, ул. Курмангазы, 97"
+    },
+    {
+      "title": "Вкуснейший плов, лагман и тандырная выпечка со скидкой 30%",
+      "restaurant_name": "Тандыр & Казан",
+      "original_price": 0,
+      "discount_price": 0,
+      "discount_percent": 30,
+      "description": "Скидка на всё меню",
+      "url": "https://chocolife.me/57660-tandyr-kazan/",
+      "address": "г. Алматы, улица Токтабаева, дом 16/1"
+    }
+  ],
+  "abr_search_abr_restaurants": [
+    {
+      "name": "Del Papa",
+      "address": "6-й микрорайон, 3Б, Алматы",
+      "rating": 4.3,
+      "price_range": "—",
+      "cuisine": "ABR ресторан Алматы",
+      "working_hours": "—",
+      "phone": "—",
+      "url_2gis": "https://2gis.kz/almaty/firm/70000001055925484"
+    },
+    {
+      "name": "Del Papa",
+      "address": "—",
+      "rating": 4.4,
+      "price_range": "—",
+      "cuisine": "ABR ресторан Алматы",
+      "working_hours": "—",
+      "phone": "—",
+      "url_2gis": "https://2gis.kz/almaty/firm/9429940000786600"
+    },
+    {
+      "name": "Del Papa",
+      "address": "—",
+      "rating": 4.4,
+      "price_range": "—",
+      "cuisine": "ABR ресторан Алматы",
+      "working_hours": "—",
+      "phone": "—",
+      "url_2gis": "https://2gis.kz/almaty/firm/70000001024492954"
+    },
+    {
+      "name": "Del Papa",
+      "address": "—",
+      "rating": 4.4,
+      "price_range": "—",
+      "cuisine": "ABR ресторан Алматы",
+      "working_hours": "—",
+      "phone": "—",
+      "url_2gis": "https://2gis.kz/almaty/firm/9429940000825785"
+    },
+    {
+      "name": "Дареджани",
+      "address": "—",
+      "rating": 4.7,
+      "price_range": "~8000  ₸",
+      "cuisine": "ABR ресторан Алматы",
+      "working_hours": "—",
+      "phone": "—",
+      "url_2gis": "https://2gis.kz/almaty/firm/70000001017233028"
+    },
+    {
+      "name": "Афиша",
+      "address": "—",
+      "rating": 4.3,
+      "price_range": "~9000  ₸",
+      "cuisine": "ABR ресторан Алматы",
+      "working_hours": "—",
+      "phone": "—",
+      "url_2gis": "https://2gis.kz/almaty/firm/70000001030988696"
+    },
+    {
+      "name": "Огонёк",
+      "address": "—",
+      "rating": 4.5,
+      "price_range": "~16000  ₸",
+      "cuisine": "ABR ресторан Алматы",
+      "working_hours": "—",
+      "phone": "—",
+      "url_2gis": "https://2gis.kz/almaty/firm/70000001056260786"
+    },
+    {
+      "name": "Cafeteria",
+      "address": "—",
+      "rating": 4.2,
+      "price_range": "—",
+      "cuisine": "ABR ресторан Алматы",
+      "working_hours": "—",
+      "phone": "—",
+      "url_2gis": "https://2gis.kz/almaty/firm/9429940000786240"
+    },
+    {
+      "name": "Spiros",
+      "address": "—",
+      "rating": 4.6,
+      "price_range": "~20000  ₸",
+      "cuisine": "ABR ресторан Алматы",
+      "working_hours": "—",
+      "phone": "—",
+      "url_2gis": "https://2gis.kz/almaty/firm/70000001079583542"
+    },
+    {
+      "name": "Auyl",
+      "address": "Керей-Жанибек хандар улица, 586, Алматы",
+      "rating": 4.6,
+      "price_range": "~20000  ₸",
+      "cuisine": "ABR ресторан Алматы",
+      "working_hours": "—",
+      "phone": "—",
+      "url_2gis": "https://2gis.kz/almaty/firm/70000001067620756"
+    }
+  ]
+}
