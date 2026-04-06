@@ -343,27 +343,3 @@ MCP-серверы — отдельные процессы для внешних
 Пополните баланс: [fal.ai/dashboard/billing](https://fal.ai/dashboard/billing). Без баланса клон и MiniMax TTS не работают.
 
 ---
-
-
-
-Из корня проекта:
-
-```powershell
-powershell -ExecutionPolicy Bypass -File .\scripts\package_submission.ps1 -StudentFolderName "Saltanat_Tugayeva"
-```
-
-В **`dist_submission\`** появятся **`Saltanat_Tugayeva\`** и **`Saltanat_Tugayeva.zip`**.
-
-Скрипт дополнительно:
-
-- исключает **`venv`**, **`.env`**, **`__pycache__`**, **`.git`**, **`scripts/`**, **`voice/.minimax_voice_id`**, **`*.bin` / `*.pt` / `*.ckpt`**, **`project05.pdf`**, **`avatar/pipeline_avatar.mp4`**, любой **`video_demo_pitch.mp4`**, **`app.py`** (если файл случайно появится);
-- в **`voice/`** кладёт **только** **`clone.py`**, **`tts.py`**, **`my_voice_sample.wav`** (ASR и подготовка текста к озвучке — в **`agent/`**);
-- копирует **`avatar/my_photo.jpg`** из доступного исходника фото;
-- копирует **`assets/demo.mp4`** (из `pipeline_avatar` или готового `assets/demo.mp4`).
-
-### Ручная проверка перед отправкой
-
-1. В архиве только **`.env.example`**, не **`.env`**.  
-2. Есть **`assets/demo.mp4`** (демо 2–3 мин по ТЗ).  
-3. В **`voice/`** — **`my_voice_sample.wav`** (≥10 с).  
-4. Нет **`venv`**, **`node_modules`**, **`__pycache__`**.
